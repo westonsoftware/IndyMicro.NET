@@ -11,7 +11,7 @@ Table of Contents
 5. [Topics](Topics/index.md)
 6. [Finish Line](99_Finish_Line.md)
 
-<img src=".\Images\IndyCar.png" alt="image-20200315211415167" style="zoom: 60%;" /><img src=".\Images\IndyCar.png" alt="image-20200315211415167" style="zoom: 40%;" /><img src=".\Images\IndyCar.png" alt="image-20200315211415167" style="zoom: 20%;" />
+<img src=".\Images\IndyCar.png" alt="image-20200315211415167" width="300"/><img src=".\Images\IndyCar.png" alt="image-20200315211415167" width="200" /><img src=".\Images\IndyCar.png" alt="image-20200315211415167" width="100" />
 
 --Andy Weston
 
