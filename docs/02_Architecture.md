@@ -4,7 +4,7 @@
 
 Before getting started it is helpful to take a look at the application architecture first.
 
-![IndyMicro](C:\Users\awest\source\repos\IndyMicro\docs\Images\IndyMicro.png) 
+![IndyMicro](.\Images\IndyMicro.png) 
 
 
 
